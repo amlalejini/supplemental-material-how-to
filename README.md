@@ -1,5 +1,10 @@
 ## Supplemental Material
 
+
+
+[![DOI](https://zenodo.org/badge/250617305.svg)](https://zenodo.org/badge/latestdoi/250617305)
+
+
 An academic publication's supplemental material is that ill-defined thing you throw all of the extra
 content that you couldn't fit into your original submission. E.g., extra analyses, dope videos, all
 of your raw data files, source code, *et cetera*.
