@@ -6,7 +6,7 @@
 Adding supplemental material to any paper is as easy as:
 
 1. making a GitHub repository packed with supplemental goodness
-2. using Zenodo to assign your repository a cite-able DOI
+2. using Zenodo to assign your repository a citable DOI
 3. citing your DOI-minted repository in your article
 4. minimal effort bonus: use GitHub pages to turn your supplemental material into a website
 
